@@ -1,0 +1,7 @@
+E:\zaid\semester 2\LABS\lab4\student\student\bin\Debug\student.exe.config
+E:\zaid\semester 2\LABS\lab4\student\student\bin\Debug\student.exe
+E:\zaid\semester 2\LABS\lab4\student\student\bin\Debug\student.pdb
+E:\zaid\semester 2\LABS\lab4\student\student\obj\Debug\student.csproj.AssemblyReference.cache
+E:\zaid\semester 2\LABS\lab4\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\LABS\lab4\student\student\obj\Debug\student.exe
+E:\zaid\semester 2\LABS\lab4\student\student\obj\Debug\student.pdb
